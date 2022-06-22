@@ -1,0 +1,42 @@
+{
+  "1": {
+    "apiRoute": "api?module=contract&action=getabi&address=",
+    "baseUrl": "https://api.etherscan.io",
+    "name": "ethereum"
+  },
+  "4": {
+    "apiRoute": "api?module=contract&action=getabi&address=",
+    "baseUrl": "https://rinkeby.etherscan.io",
+    "name": "rinkeby"
+  },
+  "56": {
+    "apiRoute": "api?module=contract&action=getabi&address=",
+    "baseUrl": "https://api.bscscan.com",
+    "name": "binance"
+  },
+  "97": {
+    "apiRoute": "api?module=contract&action=getabi&address=",
+    "baseUrl": "https://testnet.bscscan.com",
+    "name": "binance-testnet"
+  },
+  "137": {
+    "apiRoute": "api?module=contract&action=getabi&address=",
+    "baseUrl": "https://api.polygonscan.com",
+    "name": "polygon"
+  },
+  "43113": {
+    "apiRoute": "api?module=contract&action=getabi&address=",
+    "baseUrl": "https://testnet.snowtrace.io",
+    "name": "avalanche-testnet"
+  },
+  "43114": {
+    "apiRoute": "api?module=contract&action=getabi&address=",
+    "baseUrl": "https://api.snowtrace.io",
+    "name": "avalanche"
+  },
+  "80001": {
+    "apiRoute": "api?module=contract&action=getabi&address=",
+    "baseUrl": "https://mumbai.polygonscan.com",
+    "name": "polygon-testnet"
+  }
+}

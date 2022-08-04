@@ -56,7 +56,7 @@
   },
   "1313161554": {
     "apiRoute": "api?module=contract&action=getabi",
-    "baseUrl": "https://aurorascan.dev",
+    "baseUrl": "https://api.aurorascan.dev",
     "name": "aurora"
   }
 }

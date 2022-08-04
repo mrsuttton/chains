@@ -9,6 +9,11 @@
     "baseUrl": "https://rinkeby.etherscan.io",
     "name": "rinkeby"
   },
+  "10":{
+    "apiRoute": "api?module=contract&action=getabi",
+    "baseUrl": "https://api-optimistic.etherscan.io",
+    "name": "optimism"
+  },
   "56": {
     "apiRoute": "api?module=contract&action=getabi",
     "baseUrl": "https://api.bscscan.com",
@@ -23,6 +28,11 @@
     "apiRoute": "api?module=contract&action=getabi",
     "baseUrl": "https://api.polygonscan.com",
     "name": "polygon"
+  },
+  "42161": {
+    "apiRoute": "api?module=contract&action=getabi",
+    "baseUrl": "https://api.arbiscan.io",
+    "name": "arbitrum-one"
   },
   "43113": {
     "apiRoute": "api?module=contract&action=getabi",

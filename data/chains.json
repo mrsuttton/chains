@@ -53,5 +53,10 @@
     "apiRoute": "api?module=contract&action=getabi",
     "baseUrl": "https://mumbai.polygonscan.com",
     "name": "polygon-testnet"
+  },
+  "1313161554": {
+    "apiRoute": "api?module=contract&action=getabi",
+    "baseUrl": "https://aurorascan.dev",
+    "name": "aurora"
   }
 }

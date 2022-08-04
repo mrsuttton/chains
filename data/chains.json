@@ -34,6 +34,11 @@
     "baseUrl": "https://api.arbiscan.io",
     "name": "arbitrum-one"
   },
+  "42220": {
+    "apiRoute": "api?module=contract&action=getabi",
+    "baseUrl": "https://api.celoscan.io",
+    "name": "celo"
+  },
   "43113": {
     "apiRoute": "api?module=contract&action=getabi",
     "baseUrl": "https://testnet.snowtrace.io",

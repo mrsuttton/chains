@@ -6,7 +6,7 @@
   },
   "4": {
     "apiRoute": "api?module=contract&action=getabi",
-    "baseUrl": "https://rinkeby.etherscan.io",
+    "baseUrl": "https://api-rinkeby.etherscan.io",
     "name": "rinkeby"
   },
   "10":{
@@ -21,7 +21,7 @@
   },
   "97": {
     "apiRoute": "api?module=contract&action=getabi",
-    "baseUrl": "https://testnet.bscscan.com",
+    "baseUrl": "https://api-testnet.bscscan.com",
     "name": "binance-testnet"
   },
   "137": {
@@ -36,7 +36,7 @@
   },
   "43113": {
     "apiRoute": "api?module=contract&action=getabi",
-    "baseUrl": "https://testnet.snowtrace.io",
+    "baseUrl": "https://api-testnet.snowtrace.io",
     "name": "avalanche-testnet"
   },
   "43114": {
@@ -46,7 +46,7 @@
   },
   "80001": {
     "apiRoute": "api?module=contract&action=getabi",
-    "baseUrl": "https://mumbai.polygonscan.com",
+    "baseUrl": "https://api-testnet.polygonscan.com",
     "name": "polygon-testnet"
   }
 }

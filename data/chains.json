@@ -24,6 +24,11 @@
     "baseUrl": "https://api-testnet.bscscan.com",
     "name": "binance-testnet"
   },
+  "100": {
+    "apiRoute": "api?module=contract&action=getabi",
+    "baseUrl": "https://api.gnosisscan.io/",
+    "name": "gnosis"
+  },
   "137": {
     "apiRoute": "api?module=contract&action=getabi",
     "baseUrl": "https://api.polygonscan.com",
